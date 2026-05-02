@@ -82,4 +82,21 @@ Contributions are welcome. Please feel free to submit a pull request or open an 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
+
+
+replace receivingbankaccount details with 
+.Hi,
+ I’m using Raenest to receive NGN payments.
+ 
+ Here are my NGN account details
+ 
+ Account name
+ Raenest/Sonia Oghenemano Etiko 
+
+ Bank name
+ Kredi Money Mfb Ltd 
+
+ Account number
+ 1859088946, 
+Mastercard number 5399 4354 3228 5678
